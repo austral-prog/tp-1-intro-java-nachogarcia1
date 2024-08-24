@@ -1,6 +1,7 @@
 package com.template;
 
 
+
 public class App {
 
     // 1. Sum of Two Integers
